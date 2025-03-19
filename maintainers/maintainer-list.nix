@@ -18925,6 +18925,12 @@
     githubId = 315096;
     name = "Pauly Myjavec";
   };
+  pneg = {
+    email = "pneg@calmskies.xyz";
+    github = "pneg";
+    githubId = 107375159;
+    name = "pneg";
+  };
   pnelson = {
     email = "me@pnelson.ca";
     github = "pnelson";
